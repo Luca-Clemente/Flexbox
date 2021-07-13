@@ -19,6 +19,6 @@ O curso abrange todas as propriedades e, praticando com o código você pode ent
 </p>
 
 <p> Em suma, praticando mais e lendo a documentação sempre que preciso eu aprenderei mais e mais! <br>
-Obs.: O website foi feito inteiramente e somente flexbox. E também está responsivo, porém não consegui colocar o gif pois o tamanho máximo de arquivo é 25mb (aumenta isso ai poxa!) </p>
+Obs.: O website foi feito inteiramente e somente flexbox. E também está responsivo, porém não consegui colocar o gif pois o tamanho máximo de arquivo é 25mb (aumenta isso ai poxa!) 🤦 </p>
 
 
