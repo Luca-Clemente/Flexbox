@@ -1,2 +1,1 @@
-# Flexbox
- Website com objetivo de praticar o uso de flexbox.
+<h1 align="center"> <img src="./imgs/logo.svg"> </h1>
