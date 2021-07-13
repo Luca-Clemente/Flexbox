@@ -3,6 +3,6 @@
 <p align="center">
  <a href="#objetivo" style="color:white;">Objetivo</a> •
   <a href="#sobre"style="color:white;" >Sobre</a> •
-   <a href="#aprendizado" style="color:white;">O que eu aprendi?</a> •
+   <a href="#aprendizado" style="color:#fff;">O que eu aprendi?</a> •
 </p>
 <img src="./videos/flexbox-gif-min.gif">
