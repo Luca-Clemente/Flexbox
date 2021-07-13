@@ -15,9 +15,10 @@
 O curso abrange todas as propriedades e, praticando com o código você pode entender mais do funcionamento delas. Além disso, a interface me agrada bastante e atualmente eu também estou estudando UI design, logo, foi uma junção como pink e cerébro.</p>
 
 <h2 id="aprendizado"> O que eu aprendi ? </h2>
-<p>Pode parecer muito tosco, mas nunca é tarde para aprender. Eu finalmente consegui compreender como alinhar os itens de acordo com o grid do meu website. E é justamente a partir do grid que você tornará a interface coesa e agradável visualmente. Além disso, eu pude compreender melhor as propriedades flex-grow, flex-shrink e flex-basis, que na minha opinião são as mais "difíceis" 🤡
+<p>Pode parecer muito tosco, mas nunca é tarde para aprender. Eu finalmente consegui compreender como alinhar os itens de acordo com o grid do meu website. E é justamente a partir do grid que você tornará a interface coesa e agradável visualmente. Além disso, eu pude compreender melhor as propriedades flex-grow, flex-shrink e flex-basis, que na minha opinião são as mais "difíceis" 🤡.
 </p>
 
-<p> Em suma, praticando mais e lendo a documentação sempre que preciso eu aprenderei mais e mais! </p>
+<p> Em suma, praticando mais e lendo a documentação sempre que preciso eu aprenderei mais e mais!
+Obs.: O website foi feito inteiramente e somente com flexbox! 🤓</p>
 
 
